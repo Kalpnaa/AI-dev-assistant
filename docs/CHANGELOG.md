@@ -31,3 +31,8 @@ All notable changes to QyverixAI are documented in this file.
 
 ### Security
 - N/A
+
+### Added
+
+* Added support for validating custom analysis rules for user-defined code analysis patterns.
+* Implemented safe rule evaluation checks to reduce injection and unsafe execution risks.
